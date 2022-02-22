@@ -1,4 +1,4 @@
-### Hi there 👋
+# ✨ Bem-vindo(a)! ✨
 
 <!--
 **marialmm/marialmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📝 Estudante de [Engenharia de Materiais](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=88&codcur=88202&codhab=0&tipo=N) na [Universidade de São Paulo](https://www5.usp.br/)  
+💻 Aluna do Bootcamp de Desenvolvimento Web Full-Stack da [Driven](https://www.driven.com.br/)

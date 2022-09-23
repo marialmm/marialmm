@@ -1,6 +1,6 @@
 # ✨ Bem-vindo(a)! ✨
 
-💻 Aluna do Bootcamp de Desenvolvimento Web Full-Stack da [Driven](https://www.driven.com.br/)  
+💻 Desenvolvedora Web Full-Stack  
 📝 Estudante de [Engenharia de Materiais](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=88&codcur=88202&codhab=0&tipo=N) na [Universidade de São Paulo](https://www5.usp.br/)  
   
 ## 🛠️ Skills:  
